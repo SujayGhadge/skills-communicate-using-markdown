@@ -9,6 +9,10 @@
 ```python
 print("I am learning to use gituhub")
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 
